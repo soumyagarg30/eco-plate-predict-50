@@ -47,7 +47,7 @@ Using AI/ML models for surplus prediction and optimized logistics, FoodieSync tu
 
 ## 📺 Demo Video
 
-[Watch Demo](#) https://www.canva.com/design/DAGhy_YKNzQ/WYmgloeudzashJh8ty69Cg/edit?utm_content=DAGhy_YKNzQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[](#) https://www.canva.com/design/DAGhy_YKNzQ/WYmgloeudzashJh8ty69Cg/edit?utm_content=DAGhy_YKNzQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ## 🛠️ Setup Instructions
